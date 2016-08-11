@@ -1,6 +1,6 @@
 # Solution to programming challenge #2
 
-I've been following (Jamis Buck programming challenges on Medium)[https://medium.com/@jamis/weekly-programming-challenge-2-33ef134b39cd#.o8qtwuk0i].
+I've been following [Jamis Buck programming challenges on Medium](https://medium.com/@jamis/weekly-programming-challenge-2-33ef134b39cd#.o8qtwuk0i).
 
 This is my solution to the Week 2 challenge :)
 
@@ -14,7 +14,7 @@ I followed Jamis' link to Sindarin names and tried to parse and get as many Sind
 
 It made sense to me to separate these syllables in three categories, *first*, *middle* and *last*, this according to its place on the Sindarin word.
 
-As I got very long names when I got 5 syllable names I separated them into a first and a last name. Similar (Lasse Ebert's)[https://github.com/lasseebert/jamis_challenge/tree/master/002_grammar] solution.
+As I got very long names when I got 5 syllable names I separated them into a first and a last name. Similar [Lasse Ebert's](https://github.com/lasseebert/jamis_challenge/tree/master/002_grammar) solution.
 
 The default behaviour is to use these syllable categories when generating names, but you can change that by loading the `Grammar` module and running it "by hand".
 
