@@ -36,7 +36,7 @@ Also, you can load up another grammar JSON file that follows the structure
 ]
 ```
 
-where `syllable` is, well, the syllable 🙃, and order is a string that can be `"first"`, `"middle"` or `"last"`.
+where `syllable` is, well, the syllable 🙃, and `order` is a string that can be `"first"`, `"middle"` or `"last"`.
 
 ## Example
 
