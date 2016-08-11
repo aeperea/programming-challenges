@@ -54,4 +54,4 @@ $ ruby grammar.rb
   Rohgond
 ```
 
-Any code smells or advice are welcome!
+Any advice on my code is welcome!
