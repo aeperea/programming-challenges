@@ -57,3 +57,4 @@ module Grammar
 
 end
 
+puts Grammar.generate
