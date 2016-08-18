@@ -54,4 +54,4 @@ west
 DONE!, executed in  14 ms
 ```
 
-Any advice on my code (or how to live my life) is welcome!
+Any advice on my code (or how to live my life 🖖) is welcome!
